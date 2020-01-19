@@ -1,6 +1,6 @@
 {
   "learnathon": {
     "Overview": "/",
-    "module name here": "/core"
+    "core": "/core"
   }
 }
