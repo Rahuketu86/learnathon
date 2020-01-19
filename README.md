@@ -43,3 +43,8 @@ say_hello()
     'Hello From Learnathon Module'
 
 
+
+```python
+from nbdev.export2html import notebook2html
+notebook2html()
+```
